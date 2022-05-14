@@ -26,8 +26,8 @@ section {
   display: inline-block;
   margin-top: 1rem;
   padding: 1rem 3rem;
-  background: #e9edfb;
-  color: #224bcf;
+  background: #e00458;
+  color: #ffffff;
   cursor: pointer;
   border-radius: .5rem;
   font-size: 1.7rem;
@@ -61,7 +61,7 @@ section {
 }
 
 .heading p a:hover {
-  color: #224bcf;
+  color: #7e00f3;
 }
 
 .header {
@@ -81,7 +81,7 @@ section {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 0 9%;
-  background: #224bcf;
+  background: #2f016b;
 }
 
 .header .logo {
@@ -122,7 +122,7 @@ section {
   position: absolute;
   left: 0;
   width: 20rem;
-  background: #224bcf;
+  background: #2f016b;
   display: none;
 }
 
